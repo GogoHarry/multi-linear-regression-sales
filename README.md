@@ -45,4 +45,4 @@ The dataset contains 572 records with the following features:
 Used statsmodels.ols to build the multiple linear regression model with the formula:
 ```python
 Sales ~ Radio + Q("Social Media") + Q("TV_Low") + Q("TV_Medium") + Q("Influencer_Mega") + Q("Influencer_Micro") + Q("Influencer_Nano")
-```pyth
+```python
